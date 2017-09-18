@@ -321,7 +321,7 @@ Testing
 Diffy includes a full set of rspec tests.  When contributing please include
 tests for your changes.
 
-[![Build Status](https://secure.travis-ci.org/samg/diffy.png)](http://travis-ci.org/samg/diffy)
+[![Build Status](https://secure.travis-ci.org/samg/diffy.svg)](http://travis-ci.org/samg/diffy)
 
 ---------------------------------------------------------------------
 
